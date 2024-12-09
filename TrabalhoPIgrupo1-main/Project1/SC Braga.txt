@@ -1,0 +1,25 @@
+Sporting Clube Braga	
+Treinador: Carlos Carvalhal
+
+Jogadores		Numero		Posicao			Forca
+	
+Matheus			#1		Guarda-Redes		1	
+Lukas Hornicek		#3		Guarda-Redes		1	
+Sikou Niakate		#4		Defesa			1	
+Bright Arrey-Mbi	#26		Defesa			1	
+Robson bambum		#3		Defesa			1	
+Yuri Ribeiro		#25		Defesa			1	
+Joao Ferreira		#13		Defesa			1	
+Victor Gomez		#2		Defesa			1	
+Gorby			#29		Medio			1	
+Andre Horta		#10		Medio			1	
+Joao Moutinho		#8		Medio			1	
+Vitor Carvalho		#6		Medio			1	
+Gabri Martinez		#77		Avancado		1	
+Joao Marques		#33		Avancado		1	
+Ismael Gharbi		#20		Avancado		1	
+Ricardo Horta		#21		Avancado		1	
+Bruma			#7		Avancado		1	
+Roger			#11		Avancado		1	
+Amine El Ouazzani	#9		Avancado		1	
+Roberto Fernandez	#90		Avancado		1	

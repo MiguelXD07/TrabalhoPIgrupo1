@@ -1,0 +1,25 @@
+Gil Vicente FC
+Treinador: Bruno Pinheiro
+
+Jogadores		Numero		Posicao			Forca
+
+Andrew			#42		Guarda-Redes		1
+Brian Araujo		#99		Guarda-Redes		1
+Marvin Elimbi		#4		Defesa			1
+Jonathan Buatu		#39		Defesa			1
+Josue Sa		#23		Defesa			1
+Ruben Fernandes		#26		Defesa			1
+Sandro Cruz		#57		Defesa			1
+Kazu			#88		Defesa			1
+Ze Carlos		#2		Defesa			1
+Mory Gbane		#24		Medio			1
+Jesus Castillo		#6		Medio			1
+Facundo Caseres		#5		Medio			1
+Kanya Fujimoto		#10		Medio			1
+Joao Teixeira		#18		Medio			1
+Felix Correia		#71		Avancado		1
+Tidjany Toure		#7		Avancado		1
+Jordi Mboula		#77		Avancado		1
+Caue			#20		Avancado		1
+Pablo			#90		Avancado		1
+Jorge Aguirre		#9		Avancado		1

@@ -1,0 +1,25 @@
+Sport Clube Benfica	
+Treinador: Bruno Lage
+
+Jogadores		Numero		Posicao			Forca	
+
+Anatoly Trubin		#1		Guarda-Redes		1	
+Samuel Soares		#24		Guarda-Redes		1	
+Nicolas Otamendi	#30		Defesa			1	
+Tomas Araujo		#44		Defesa			1	
+Antonio Silva		#4		Defesa			1	
+Alvaro Carreras		#3		Defesa			1	
+Alexandre Bah		#6		Defesa			1	
+Issa Kabore		#28		Defesa			1	
+Leandro Barreiro	#18		Medio 			1	
+Fredrik Aursnes		#8		Medio			1	
+Orkun kokcu		#10		Medio 			1	
+Jan-Niklas Beste	#37		Medio			1	
+Florentino		#61		Medio			1	
+Kerem akturkoglu	#17		Avancado		1	
+Andreas Schjelderup	#21		Avancado		1	
+Angel Di Maria		#11		Acancado		1	
+Benjamin Rollheiser	#32		Avancado		1	
+Aerthur Cabral		#9		Avancado		1	
+Zeki Amdouni		#7		Avancado		1	
+Vangelis Pavlidis	#14		Avancado		1	

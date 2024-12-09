@@ -1,0 +1,25 @@
+Santa Clara	
+Treinador: Vasco Matos
+
+Jogadores		Numero		Posicao			Forca	
+
+Gabriel Batista		#1		Guarda-Redes		1	
+Neneca			#12		Guarda-Redes		1	
+Luis Rocha		#13		Defesa			1	
+Frederico Venancio	#21		Defesa			1	
+Gui Ramos		#27		Defesa			1	
+Habraao			#28		Defesa			1	
+MT			#32		Defesa			1	
+Matheus Pereira		#3		Defesa			1	
+Calila			#2		Defesa			1	
+Serginho		#35		Defesa			1	
+Lucas Soares		#42		Defesa			1	
+Klismahn		#77		Medio			1	
+Dani Broges		#41		Medio			1	
+Adriano Firmino		#6		Medio			1	
+Pedro Ferreira		#8		Medio			1	
+Bruno Almeida		#19		Avancado		1	
+Alisson Safira		#9		Avancado		1	
+Vinicius Lopes		#70		Avancado		1	
+Joao Costa		#17		Avancado		1	
+Gustavo Veiga		#73		Avancado		1	

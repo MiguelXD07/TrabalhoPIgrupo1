@@ -1,0 +1,25 @@
+FC Famalicao
+Treinador: Armando Evangelista
+
+Jogadores		Numero		Posicao		 Forca
+
+Lazar Carevic           #25 		Guarda-Redes     1
+Ivan Zlobin		#1 		Guarda-Redes	 1
+Enea Mihaj		#4  		Defesa           1 
+Riccieli		#15 		Defesa 		 1
+Justin de Haas 		#16 		Defesa 		 1
+Rafa Soares 		#5  		Defesa		 1
+Diogo Costa 		#75 		Defesa		 1
+Calegari 		#2  		Defesa		 1
+Rodrigo Pinheiro 	#17 		Defesa		 1
+Tom van de Looi		#6  		Medio		 1
+Zaydou Youssouf		#28 		Medio		 1
+Samuel Lobato	 	#88 		Medio		 1
+Mathias de Amorim 	#14 		Medio		 1
+Gustavo Sa 		#20 		Medio		 1
+Otso Liimatta	 	#18 		Medio		 1
+Rochinha		#10 		Avancado         1 
+Oscar Aranda		#11		Avancado	 1
+Gil Dias		#22		Avancado 	 1
+Mario Gonzalez		#9		Avancado	 1
+Leonardo Oliveira	#85		Avancado	 1

@@ -1,0 +1,25 @@
+Boavista
+Treinador: Cristiano Bacci
+
+Jogadores		Numero		Posicao			Forca
+
+Tome Sousa		#76		Guarda-Redes		1	
+Cesar			#1		Guarda-Redes		1	
+Pedro Gomes		#15		Defesa			1	
+Bruno Onyemaechi	#70		Defesa			1	
+Rodrigo Abascal		#26		Defesa			1	
+Filipe Ferreira		#20		Defesa			1
+Alex Marques		#73		Defesa			1	
+Augusto Dabo		#25		Defesa			1	
+Tomas Silva		#75		Defesa			1	
+Goncalo Miguel		#35		Defesa			1		
+Ilija Vukotic		#18		Medio			1	
+Joel Silva		#16		Medio			1	
+Ibrahima		#2		Medio			1	
+Miguel Reisinho		#10		Medio			1
+Marco Ribeiro		#88		Medio			1		
+Robert Bozenik		#9		Avancado		1	
+Salvador Agra		#7		Avancado		1	
+Joao Barros		#71		Avancado		1	
+Manuel Namora		#17		Avancado		1	
+Tiago Machado		#23		Avancado		1

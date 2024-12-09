@@ -1,0 +1,25 @@
+Est. Amadora
+Treinador: Jose Faria
+
+Jogadores		Numero		Posicao			Forca
+
+Marko Gudzulic		#93		Guarda-Redes		1	
+Bruno Brigido		#30		Guarda-Redes		1	
+Miguel Lopes		#13		Defesa			1	
+Ferro			#4		Defesa			1	
+Ruben Lima		#28		Defesa			1	
+Danilo Veiga		#77		Defesa			1
+Tiago Gabriel		#44		Defesa			1	
+Guilherme Montoia	#21		Defesa			1	
+Travassos		#2		Defesa			1
+Nilton			#25		Defesa			1		
+Igor jesus		#6		Medio			1	
+Leu Cordeiro		#22		Medio			1	
+Alan Ruiz		#10		Medio			1	
+Leonel Bucca		#26		Medio			1	
+Manuel Keliano		#42		Medio			1	
+Paulo Moreira		#19		Medio			1	
+Manu			#81		Avancado		1	
+Kikas			#98		Avancado		1
+Rodrigo Pinho		#9		Avancado		1	
+Jovane Cabral		#97		Avancado		1	

@@ -1,0 +1,24 @@
+Casa Pia AC
+Treinador: Joao Perira
+
+Jogadores		Numero		Posicao			Forca
+
+Patrick Sequeira	#1		Guarda-Redes		1
+Ricardo Batista		#33		Guarda-Redes		1
+Nermin Zolotic		#19		Defesa			1
+Ruben Kluivert		#3		Defesa			1	
+Tchamba			#2		Defesa			1
+Joao Goulart		#4		Defesa			1	
+Leonardo Lelo		#5		Defesa			1
+Fahem Benaissa-Yahia	#12		Defesa			1
+Gaizka Larrazabal	#72		Defesa			1
+Andre Geraldes		#18		Defesa			1
+Andrian Kraev		#89		Medio			1
+Rafael Brito		#17		Medio			1
+Telasco Segovia		#8		Medio			1	
+Miguel Sousa		#14		Medio			1	
+Henrique Pereira	#52		Avancado		1
+Jeremy Liovlant		#29		Avancado		1
+Nuno Moreira		#7		Avancado		1
+Max Svensson		#9		Avancado		1
+Cassiano		#90		Avancado		1

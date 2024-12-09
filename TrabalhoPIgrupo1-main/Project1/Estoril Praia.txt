@@ -1,0 +1,25 @@
+Estoril Praia
+Treinador: Ian Cathro
+
+Jogadores		Numero		Posicao			Forca
+
+Kevin Chamorro		#1		Guarda-Redes		1	
+Joel Robles		#27		Guarda-Redes		1
+Felix Bacher		#25		Defesa			1	
+Pedro Alvaro		#23		Defesa			1	
+Kevin Boma		#44		Defesa			1
+Ismael Sierra		#3		Defesa			1	
+Goncalo Costa		#18		Defesa			1	
+Pedro Carvalho		#22		Defesa			1		
+Wagner Pina		#20		Medio			1	
+Jordan Holsgrove	#10		Medio			1	
+Zanocelo		#7		Medio			1	
+Joao Carvalho		#12		Medio			1	
+Michel Costa		#8		Medio			1	
+Jandro Orellana		#6		Medio			1	
+Andre Lacximicant	#19		Avancado		1	
+Israel Salazar		#92		Avancado		1	
+Yanis Begraoui		#14		Avancado		1	
+Fabricio Garcia		#17		Avancado		1	
+Helder Costa		#11		Avancado		1	
+Alejandro Marques	#9		Avancado		1	

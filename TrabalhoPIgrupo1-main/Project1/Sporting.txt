@@ -1,0 +1,25 @@
+Sporting
+Treinador: Joao Pereira	
+
+Jogadores		Numero		Posicao			Forca	
+
+Vladan Kovacevic	#13		Guarda-Redes		1	
+Diego Callai		#41		Guarda-Redes		1	
+Zeno Debaste		#6		Defesa			1	
+Goncalo Inacio		#25		Defesa			1	
+Ousmane Diomande	#26		Defesa			1	
+Jerry St. Juste		#3		Defesa			1	
+Matheus Reis		#2		Defesa			1	
+Ricardo Esgaio		#47		Defesa			1	
+Ivan Fresneda		#22		Defesa			1	
+Morten Hjulmand		#42		Medio			1	
+Daniel Braganca		#23		Medio			1	
+Joao Simoes		#52		Medio			1	
+Hidemasa Morita		#5		Medio			1	
+Maxi Araujo		#20		Avancado		1	
+Geny Catamo		#21		Avancado		1	
+Geovany Quenda		#57		Avancado		1	
+Marcus Edwars		#10		Avancado		1	
+Trincao			#17		Avancado		1	
+Viktor Gyokeres		#9		Avancado		1	
+Conrad Harder		#19		Avancado		1	

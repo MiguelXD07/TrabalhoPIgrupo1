@@ -1,0 +1,25 @@
+SC Farense
+Treinador: Toze Marreco
+
+Jogadores		Numero		Posicao			Forca
+	
+Ricardo Velho		#33		Guarda-Redes		1
+Kaique Pereira		#1 		Guarda-Redes		1
+Marco Moreno 		#3  		Defesa			1
+Artur Jorge	 	#4  		Defesa 			1
+Raul Silva 		#34 		Defesa 			1
+Lucas Africo		#44 		Defesa 			1
+Paulo Victor		#2 		Defesa			1
+Derick Poloni 		#31 		Defesa			1
+Pastor			#28 		Defesa			1
+Claudio Falcao		#29 		Medio			1
+Seruca		 	#50 		Medio 			1
+Miguel Menino		#93 		Medio			1
+Neto 			#6		Medio			1
+Rafael Barbosa		#8		Medio 			1
+Alex Bernejo		#11 		Avancado		1
+Marco Matias		#77 		Avancado		1
+Mehdi Merghem 		#79 		Avancado		1
+Elves Balde		#7		Avancado		1
+Jaiminho		#71 		Avancado		1				
+Dario Poveda		#14 		Avancado		1

@@ -1,0 +1,25 @@
+Nacional
+Treinador: Tiago Margarido
+
+Jogadores		Numero		Posicao			Forca
+
+Rui Encarnacao		#1		Guarda-Redes		1		
+Franca			#37		Guarda-Redes		1	
+Garcia			#22		Defesa			1	
+Ulisses			#4		Defesa			1	
+Ze Vitor		#38		Defesa			1	
+Jose Gomes		#5		Defesa			1
+Leu Santos		#34		Defesa			1	
+Joao Aurelio		#2		Defesa			1		
+Dias			#88		Medio			1	
+Labidi			#15		Medio			1	
+Esteves			#10		Medio			1	
+Djibril Soumare		#27		Medio			1	
+Andre Sousa		#18		Medio			1	
+Daniel Penha		#17		Medio			1	
+Arvin Appiah		#70		Avancado		1	
+Isaac			#23		Avancado		1	
+Tiago Reis		#72		Avancado		1
+Teodora			#99		Avancado		1	
+Butzke			#9		Avancado		1	
+Macedo			#7		Avancado		1	

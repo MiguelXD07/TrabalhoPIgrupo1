@@ -1,0 +1,25 @@
+Rio Ave FC
+treinador: Petit
+
+Jogadores		Numero		Posicao			Forca
+
+Cezary Miszta		#1		Guarda-Redes		1
+Jhonatan		#18		Guarda-Redes		1
+Patrick William		#4		Defesa			1
+Renato Pantalo		#42		Defesa			1
+Aderllan Santos		#33		Defesa			1
+Omar Richards		#98		Defesa			1
+Joao Tome		#20		Defesa			1
+Martim Neto		#76		Medio			1
+Ole Pohlmann		#80		Medio			1
+Ege Tiknaz		#34		Medio			1
+Joao Novais		#6		Medio			1
+Brandom Aguilera	#16		Medio			1
+Tiago Morais		#11		Avancado		1
+Tobias Medina		#27		Avancado		1
+Kiko Bondoso		#19		Avancado		1
+Tim Sousa		#94		Avancado		1
+Marios Vrousai		#17		Avancado		1
+Clayton			#9		Avancado		1
+Ahmed Hassan		#22		Avancado		1
+Karem Zoabi		#14		Avancado		1

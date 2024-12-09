@@ -1,0 +1,25 @@
+Vitoria Sport Clube	
+Treinador: Rui Borges
+
+Jogadores		Numero		Posicao			Forca	
+
+Bruno Varela		#14		Guarda-Redes		1	
+Charles			#27		Guarda-Redes		1	
+Jorge Fernandes		#44		Defesa			1	
+Toni Borevkovic		#24		Defesa			1	
+Oscar Rivas		#15		Defesa			1	
+Joao Mendes		#13		Defesa			1	
+Ze Carlos		#28		Defesa			1	
+Bruno Gaspar		#76		Defesa			1	
+Alberto Costa		#22		Defesa			1	
+Tomás Handel		#8		Medio			1	
+Manu			#6		Medio			1	
+Joao Mendes		#17		Medio			1	
+Telmo Arcanjo		#18		Medio			1	
+Samu			#20		Medio			1	
+Nuno Santos		#77		Medio			1	
+Gustavo Silva		#71		Avancado		1	
+Kaio Cesar		#11		Avancado		1	
+Jesus Ramirez		#9		Avancado		1	
+Bica			#79		Avancado		1	
+Nelson Oliveira		#7		Avancado		1	

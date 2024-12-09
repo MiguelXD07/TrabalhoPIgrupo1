@@ -1,0 +1,25 @@
+Moreirense FC
+Treinador: Cesar Peixoto
+
+Jogadores		Numero		Posicao			Forca
+
+Kewin			#40		Guarda-Redes		1
+Caio Secco		#22		Guarda-Redes		1
+Maracas			#26		Defesa			1
+Ponck			#14		Defesa			1
+Gilberto Batista	#66		Defesa			1
+Marcelo			#44		Defesa			1
+Leonardo Buta		#15		Defesa			1
+Godfried Frimpong	#23		Defesa			1
+Fabiano			#2		Defesa			1
+Dinis Pinto		#76		Defesa			1
+Ismael			#6		Medio			1
+Sidnei Tavares		#5		Medio			1
+Benny			#20		Medio			1
+Alan			#11		Medio			1
+Madson			#31		Avancado		1
+Jeremy Antonisse	#10		Avancado		1
+Gabrielzinho		#77		Avancado		1
+Pedro Santos		#21		Avancado		1
+Luis Asue		#9		Avancado		1
+Guilherme Schettine	#95		Avancado		1

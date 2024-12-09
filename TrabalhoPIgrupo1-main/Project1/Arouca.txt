@@ -1,0 +1,25 @@
+Arouca
+Treinador: Claudio Botelho
+
+Jogadores		Numero		Posicao			Forca
+
+Joao valido		#1		Guarda-Redes		1		
+Nico Mantl		#58		Guarda-Redes		1	
+Amadeu Dante		#27		Defesa			1	
+Chico Lamba		#73		Defesa			1	
+Jose Fontan		#3		Defesa			1	
+David Simao		#5		Defesa			1
+Matias Rocha		#4		Defesa			1	
+Weverson		#26		Defesa			1	
+Alex Pinto		#78		Defesa			1
+Mamadou Loum		#31		Defesa			1		
+Tiago Esgaio		#28		Medio			1	
+Morlaye Sylla		#2		Medio			1	
+Jason			#10		Medio			1	
+Taichi Fukui		#21		Medio			1	
+Pedro Santos		#89		Medio			1	
+Pablo Gozalbez		#22		Medio			1	
+Miguel Puche		#11		Avancado		1	
+Guven Yalcın		#50		Avancado		1	
+Ivo Rodrigues		#7		Avancado		1	
+Alfonso Trezza		#19		Avancado		1	

@@ -1,0 +1,25 @@
+Futebol Clube Porto	
+Treinador: Vitor Bruno
+
+Jogadores		Numero		Posicao			Forca
+	
+Diogo Costa		#99		Guarda-Redes		1	
+Claudio Ramos		#14		Guarda-Redes		1	
+Tiago Djalo		#3		Defesa			1	
+Nehuen Perez		#24		Defesa			1	
+Otavio			#4		Defesa			1	
+Francisco Moura		#74		Defesa			1	
+Joao Mario		#23		Defesa			1	
+Martim Fernandes	#52		Defesa			1	
+Nico Gonzales		#16		Medio			1	
+Vasco Sousa		#15		Medio			1	
+Stephen Eustaquio	#6		Medio			1	
+Rodrigo Moura		#86		Medio			1	
+Fabio Vieira		#10		Medio			1	
+Ivan Jaime		#17		Medio			1	
+Galeno			#13		Avancado		1		
+Pepe			#11		Avancado		1	
+Goncalo Borges		#70		Avancado		1	
+Deniz Gul		#27		Avancado		1	
+Danny Namaso		#19		Avancado		1	
+Samu Aghehowa		#9		Avancado		1	
